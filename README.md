@@ -5,7 +5,7 @@ This program processes a set of integers to determine statistical insights, incl
 - **Finds Largest & Smallest Numbers**: Identifies the highest and lowest values in the set.
 - **Median Calculation**: Sorts the numbers and computes the median.
 - **Average Calculation**: Computes the arithmetic mean of the entered values.
-- **User-Friendly Input Handling**: Accepts 10 space-separated integers and repeats calculations upon request.
+- **User-Friendly Input Handling**: Accepts space-separated integers and repeats calculations upon request.
 
 ## Example Usage
 ```

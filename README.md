@@ -1,13 +1,12 @@
 # Number Analyzer
 
-This program processes a set of integers to determine statistical insights, including the largest and smallest values, median, and average.
+This is a project that processes a set of integers to determine useful statistical insights, including the largest and smallest values, the median, and the average. It's designed to help you quickly analyze a dataset and extract key numerical trends.
 
-- **Finds Largest & Smallest Numbers**: Identifies the highest and lowest values in the set.
-- **Median Calculation**: Sorts the numbers and computes the median.
-- **Average Calculation**: Computes the arithmetic mean of the entered values.
-- **User-Friendly Input Handling**: Accepts space-separated integers and repeats calculations upon request.
+The way I programmed this project was by implementing a system that takes in space-separated integers, sorts them, and identifies the highest and lowest numbers. Then, it calculates the median by selecting the middle value or averaging the two middle numbers when applicable. It also computes the arithmetic mean, giving you a clear measure of the dataset’s central tendency. I included an interactive feature that allows you to repeat the calculations with new data, making it more flexible and user-friendly.
 
-## Example Usage
+I built this project because I wanted a simple way to analyze numbers without needing a spreadsheet or a calculator. It was a good challenge to implement sorting logic and statistical functions while keeping the input and output intuitive. I hope that this helps you get quick insights from numerical data in an easy way.
+
+## Example Output
 ```
 --- Number Analyzer ---
 Enter the number of integers you want to input: 5
